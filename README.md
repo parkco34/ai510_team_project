@@ -3,7 +3,7 @@
 **AAI-510: Agentic AI Systems | University of San Diego | June 2026**
 
 **Team 6:**
-- Corey Parker — Product Manager
+- Cory Parker — Product Manager
 - Akua Duffour — Data Engineer
 - Paola Marsal — AI Engineer
 
